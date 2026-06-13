@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "aichat",
+  "version": "${version}",
+  "name": "MC-Chatbot",
+  "icon": "assets/aichat/icon.png",
+  "description": "Chat with AI via OpenRouter directly in Minecraft",
+  "authors": ["ImHungry1480"],
+  "contact": {},
+  "license": "ARR",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.imhungry.aichat.AIChatMod"]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "fabric-api": "*",
+    "minecraft": ">=26.1.2",
+    "java": ">=25"
+  }
+}
