@@ -1,6 +1,6 @@
 # Copyright and Contribution Policy
 
-Copyright © 2026 [Your Name or Company Name]. All rights reserved.
+Copyright © 2026 ImHungry1480. All rights reserved.
 
 ## 1. Ownership and Restrictions
 All content, source code, graphics, and assets in this repository are the exclusive intellectual property of the copyright holder. 
@@ -21,4 +21,4 @@ We welcome community contributions exclusively through GitHub Pull Requests. By 
 Unauthorized use, mirroring, or distribution of this codebase outside of official pull requests will be subject to DMCA takedown requests and legal action.
 
 ---
-*For official licensing inquiries, please contact: [al.amien060512@gmail.com]*
+*For official licensing inquiries, please contact: al.amien060512@gmail.com*
