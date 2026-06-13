@@ -32,7 +32,7 @@ Chat with AI via OpenRouter directly inside Minecraft.
 Output: `build/libs/aichat-1.0.0.jar`
 
 ## Requirements
-- Minecraft 1.20.4
-- Fabric Loader 0.15.7+
+- Minecraft 26.1
+- Fabric Loader 0.19.2+
 - Fabric API
-- Java 17+
+- Java 25+
